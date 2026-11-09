@@ -1,0 +1,73 @@
+{
+  "POL-001": {
+    "policy_id": "POL-001",
+    "holder_name": "Ravi Kumar",
+    "email": "ravi.kumar@example.com",
+    "phone": "555-0101",
+    "ssn_last4": "4321",
+    "coverage_types": ["auto", "collision", "comprehensive"],
+    "coverage_limit": 25000,
+    "deductible": 500,
+    "status": "active",
+    "start_date": "2024-01-15",
+    "end_date": "2027-01-15",
+    "premium_paid": true
+  },
+  "POL-002": {
+    "policy_id": "POL-002",
+    "holder_name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "phone": "555-0202",
+    "ssn_last4": "7890",
+    "coverage_types": ["auto", "collision"],
+    "coverage_limit": 15000,
+    "deductible": 1000,
+    "status": "lapsed",
+    "start_date": "2023-03-01",
+    "end_date": "2024-03-01",
+    "premium_paid": false
+  },
+  "POL-003": {
+    "policy_id": "POL-003",
+    "holder_name": "Anjali Reddy",
+    "email": "anjali.reddy@example.com",
+    "phone": "555-0303",
+    "ssn_last4": "1122",
+    "coverage_types": ["auto", "collision", "comprehensive", "theft"],
+    "coverage_limit": 50000,
+    "deductible": 1000,
+    "status": "active",
+    "start_date": "2025-10-20",
+    "end_date": "2027-10-20",
+    "premium_paid": true
+  },
+  "POL-004": {
+    "policy_id": "POL-004",
+    "holder_name": "Suresh Nair",
+    "email": "suresh.nair@example.com",
+    "phone": "555-0404",
+    "ssn_last4": "5566",
+    "coverage_types": ["homeowners", "water_damage"],
+    "coverage_limit": 200000,
+    "deductible": 2500,
+    "status": "active",
+    "start_date": "2022-06-01",
+    "end_date": "2027-06-01",
+    "premium_paid": true
+  },
+  "POL-005": {
+    "policy_id": "POL-005",
+    "holder_name": "Meena Patel",
+    "email": "meena.patel@example.com",
+    "phone": "555-0505",
+    "ssn_last4": "9988",
+    "coverage_types": ["auto", "collision", "comprehensive"],
+    "coverage_limit": 10000,
+    "deductible": 500,
+    "status": "active",
+    "start_date": "2025-09-01",
+    "end_date": "2027-09-01",
+    "premium_paid": true
+  }
+}
+

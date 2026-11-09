@@ -1,0 +1,43 @@
+{
+  "POL-001": [
+    {
+      "claim_id": "CLM-0010",
+      "date": "2024-06-15",
+      "peril": "collision",
+      "amount": 1200.00,
+      "decision": "APPROVE",
+      "notes": "Minor fender bender, documented with photos."
+    }
+  ],
+  "POL-002": [
+    {
+      "claim_id": "CLM-0021",
+      "date": "2023-11-20",
+      "peril": "collision",
+      "amount": 3500.00,
+      "decision": "APPROVE",
+      "notes": "Side-swipe incident on highway."
+    },
+    {
+      "claim_id": "CLM-0022",
+      "date": "2024-01-10",
+      "peril": "collision",
+      "amount": 800.00,
+      "decision": "DENY",
+      "notes": "Policy lapsed before claim date."
+    }
+  ],
+  "POL-003": [],
+  "POL-004": [
+    {
+      "claim_id": "CLM-0041",
+      "date": "2023-08-05",
+      "peril": "water_damage",
+      "amount": 12000.00,
+      "decision": "APPROVE",
+      "notes": "Burst pipe in kitchen, covered under policy."
+    }
+  ],
+  "POL-005": []
+}
+

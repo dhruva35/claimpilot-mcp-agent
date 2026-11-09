@@ -1,0 +1,22 @@
+# ClaimsPilot dependencies
+# Pinned to exact major versions for reproducibility
+
+# MCP server + client framework (wraps the official mcp SDK internally)
+fastmcp>=2.3,<5
+
+# LLM Planners
+groq>=1.0.0              # Fast inference via GroqCloud (llama-3.3-70b-versatile)
+anthropic>=0.40,<1       # Anthropic Claude tool-use planner (optional)
+
+# RAG / vector search
+faiss-cpu>=1.7
+sentence-transformers>=2.2,<7
+
+# Web Dashboard & Terminal Display
+rich>=13.0,<16
+starlette>=0.30
+uvicorn>=0.20
+
+# Standard library used: sqlite3, json, re, asyncio, dataclasses, pathlib
+# No additional installs needed for those.
+

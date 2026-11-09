@@ -1,0 +1,10 @@
+.venv/
+vectorstore/chunks.json
+vectorstore/vectors.npy
+logs/audit.jsonl
+review/queue.db
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+
